@@ -1,3 +1,5 @@
+# Spatial Transcriptomics
+
 ### To install the packages required to use the different tools 
 
 ```bash
